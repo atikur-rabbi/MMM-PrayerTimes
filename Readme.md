@@ -41,10 +41,6 @@ Add the following configuration to your `config.js` file:
 }
 ```
 
-## Dependencies
-- [moment.js](https://momentjs.com/)
-- [axios](https://github.com/axios/axios)
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
