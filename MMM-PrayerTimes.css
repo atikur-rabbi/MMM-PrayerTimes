@@ -1,0 +1,41 @@
+.prayer-times {
+    font-family: Arial, sans-serif;
+    color: #fff;
+    background: #222;
+    border-radius: 8px;
+    padding: 10px;
+    width: 100%;
+    max-width: 320px;
+  }
+  
+  .prayer-times-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+  }
+  
+  .prayer-times-table th,
+  .prayer-times-table td {
+    border: 1px solid #444;
+    padding: 4px 6px;
+    text-align: center;
+  }
+  
+  .prayer-times-table th {
+    background: #444;
+    color: #ffd700;
+  }
+  
+  .prayer-times-table tr:nth-child(even) td {
+    background: #333;
+  }
+  
+  .prayer-times-table tr:nth-child(odd) td {
+    background: #2a2a2a;
+  }
+  
+  .loading {
+    text-align: center;
+    color: #ffd700;
+    font-style: italic;
+  }
